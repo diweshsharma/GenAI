@@ -12,7 +12,7 @@ open_key = os.getenv('OPENROUTER_API_KEY')
 
 
 model_1 = init_chat_model(model = "llama-3.3-70b-versatile" ,model_provider ="groq")
-model_2 = init_chat_model("openrouter/free", model_provider="openai",
+model_2 = init_chat_model("qwen/qwen-2.5-72b-instruct:free", model_provider="openai",
 base_url="https://openrouter.ai/api/v1",
 api_key= open_key)
 

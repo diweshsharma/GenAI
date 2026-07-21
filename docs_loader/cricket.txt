@@ -1,0 +1,105 @@
+## Cricket Summary
+
+Cricket is a bat-and-ball sport played between two teams of **11 players**. It is one of the world's most popular sports, especially in countries such as India, Australia, England, Pakistan, South Africa, New Zealand, Bangladesh, Sri Lanka, and the West Indies.
+
+### Objective
+
+The main objective is to **score more runs than the opposing team**.
+
+### How the Game is Played
+
+* One team **bats** while the other team **bowls and fields**.
+* The batting team tries to score runs by hitting the ball and running between the wickets or by hitting boundaries.
+* The fielding team tries to dismiss (get out) the batters and restrict the number of runs scored.
+* After one team's innings ends, the teams switch roles.
+
+### Ways to Score Runs
+
+* **1, 2, or 3 runs:** By running between the wickets.
+* **4 runs:** When the ball reaches the boundary after touching the ground.
+* **6 runs:** When the ball clears the boundary without touching the ground.
+* **Extras:** Runs awarded due to wides, no-balls, byes, and leg byes.
+
+### Ways a Batter Can Get Out
+
+* Bowled
+* Caught
+* Leg Before Wicket (LBW)
+* Run Out
+* Stumped
+* Hit Wicket
+* Obstructing the Field
+* Timed Out
+* Hit the Ball Twice
+* Handled the Ball (now covered under obstructing the field)
+
+### Formats of Cricket
+
+1. **Test Cricket**
+
+   * Played over **5 days**.
+   * Each team has **two innings**.
+   * Considered the longest and most traditional format.
+
+2. **One Day International (ODI)**
+
+   * **50 overs** per team.
+   * Completed in one day.
+
+3. **Twenty20 (T20)**
+
+   * **20 overs** per team.
+   * Fast-paced format lasting about 3 hours.
+
+### Key Player Roles
+
+* **Batter:** Scores runs.
+* **Bowler:** Attempts to dismiss batters.
+* **All-rounder:** Excels in both batting and bowling.
+* **Wicketkeeper:** Stands behind the stumps to catch balls and stump batters.
+* **Captain:** Leads the team and makes strategic decisions.
+
+### Basic Rules
+
+* An over consists of **6 legal deliveries**.
+* An innings usually ends when:
+
+  * All wickets are lost,
+  * The allotted overs are completed, or
+  * The captain declares (Test cricket only).
+* The team with the **higher score wins**.
+
+### Major International Tournaments
+
+* ICC Cricket World Cup (ODI)
+* ICC T20 World Cup
+* ICC World Test Championship
+* ICC Champions Trophy
+
+### Popular Domestic Leagues
+
+* Indian Premier League (IPL)
+* Big Bash League (BBL)
+* Pakistan Super League (PSL)
+* SA20
+* The Hundred
+
+### Equipment Used
+
+* Cricket bat
+* Cricket ball
+* Wickets (three stumps and two bails)
+* Helmet
+* Batting pads
+* Batting gloves
+* Thigh, arm, and chest guards
+* Cricket shoes
+
+### Why Cricket Is Popular
+
+* Combines strategy, skill, teamwork, and athleticism.
+* Offers multiple formats for different audiences.
+* Features exciting rivalries and international competitions.
+* Has a massive global fan base, particularly in South Asia.
+
+**In short:** Cricket is a strategic team sport where two teams of 11 players compete by batting and bowling. The team that scores the most runs while effectively dismissing the opposition wins the match. It is played in three main formats—Test, ODI, and T20—each offering a unique style of play.
